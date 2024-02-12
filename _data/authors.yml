@@ -6,6 +6,11 @@
 #   url: {homepage_of_author}
 # -------------------------------------
 
+bemodest.eth:
+  name: bemodest.eth
+  twitter: bemodestdoteth
+  url: https://github.com/bemodestdoteth/
+
 cotes:
   name: Cotes Chung
   twitter: cotes2020

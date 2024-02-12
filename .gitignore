@@ -17,6 +17,9 @@ package-lock.json
 # IDE configurations
 .idea
 
+# Drafts
+_drafts
+
 # Misc
 *.map
 sw.min.js
