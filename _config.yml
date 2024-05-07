@@ -28,8 +28,8 @@ url: "https://bemodestdoteth.github.io"
 github:
   username: bemodestdoteth # change to your github username
 
-twitter:
-  username: bemodestdoteth # change to your twitter username
+# twitter:
+#   username: bemodestdoteth # change to your twitter username
 
 social:
   # Change to your full name.
